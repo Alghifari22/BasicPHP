@@ -1,5 +1,5 @@
 <?php
-function kalkulator(int $x = 0, string $op, int $y = 0){
+function kalkulator(int $a = 0, string $op = " ", int $b = 0){
     switch($op){
         case "+":
             return $a + $b;
