@@ -1,5 +1,5 @@
 <?php
-    $i = 5;
+    $i = 1;
     do {
         echo "Ini perulangan do/while: $i <br>";
         $i++; 

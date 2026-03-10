@@ -22,8 +22,8 @@ function kalkulator(int $a = 0, string $op = " ", int $b = 0){
 echo kalkulator(3, "+", 4);
 
 // Pembagian
-echo ("\n" .kalkulator(4, "/", 2));
+echo ("<br>" .kalkulator(4, "/", 2));
 
 // Tidak valid
-echo ("\n" .kalkulator(10, "x", 20))
+echo ("<br>" .kalkulator(10, "x", 20))
 ?>
